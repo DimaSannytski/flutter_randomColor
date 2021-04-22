@@ -45,7 +45,6 @@ class ViewState extends State {
           body: Align(
             child: RichText(
               text: TextSpan(
-                  style: TextStyle(color: Colors.blue),
                   children: <TextSpan>[
                     TextSpan(
                         text: "Hey ",
